@@ -9,7 +9,10 @@
       rel="stylesheet"
       type="text/css"
     />
-    <link href="style.css" rel="stylesheet" type="text/css" /><head>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+   <body>
+      <main>
       <form>
         
         <label for="form-message">Name:</label>
@@ -52,7 +55,6 @@
         <button type="submit">Submit</button>
  
       </form>
-    </head>
-    <body>
-
+      <main/>
     </body>
+</html>
